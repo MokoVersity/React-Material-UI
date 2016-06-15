@@ -1,7 +1,7 @@
 
 <h1 class="hide">React Material UI：<br />打造扁平化風格的 SPA</h1>
 
-這門課程是 [React 101 線上課程](https://www.mokoversity.com/course/React-101-Online) 的延續。學習這門課程，你將能使用 Material UI 元件來打造扁平化風格的 SPA，並學習 SPA 的基本設計原則。
+這門課程是 [React 101 線上課程](https://www.mokoversity.com/course/React/React-101-Online) 的延續。學習這門課程，你將能使用 Material UI 元件來打造扁平化風格的 SPA，並學習 SPA 的基本設計原則。
 
 ### 這門課程包含哪些內容？
 
